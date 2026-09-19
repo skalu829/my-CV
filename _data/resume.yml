@@ -31,12 +31,11 @@ main: #简历主要内容，
     duration: "2023年9月 - 2027年6月"
     sub: 本科
     detail: 计算机与人工智能学院
-  -
-
+    
 - type: skills
   name: "技能"
   content:
-    title: "专业技能"
+  - title: "专业技能"
     items: #itmems 可以小块的方式显示
     - 精通 HTML5、CSS3 和 JavaScript（ES6+），具备扎实的前端基础和良好的代码规范意识，能够构建语义化、响应式及高性能的 Web 页面
     - 熟练掌握 Vue.js 及其生态（Vue Router、Vuex/Pinia、Vite 等），具备独立开发中大型前端项目的能力；了解 React 框架及其核心概念（Hooks、状态管理等）
