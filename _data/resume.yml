@@ -4,7 +4,7 @@
 title: "谢家奇的个人简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "谢家奇"
-jobtitle: "" #可空不显示
+jobtitle: "前端开发" #可空不显示
 photo: "assets/img/IMG_20260518_165641.jpg" #照片可空，不显示
 
 #联系方式
