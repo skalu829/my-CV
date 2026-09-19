@@ -38,7 +38,7 @@ main: #简历主要内容，
   - title: "专业技能"
     items: #itmems 可以小块的方式显示
     - 熟练使用 HTML5、CSS3 和 JavaScript（ES6+），具备扎实的前端基础和良好的代码规范意识，能够构建语义化、响应式及高性能的 Web 页面
-    - 熟练掌握 Vue.js 及其生态（Vue Router、Vuex/Pinia、Vite 等），具备独立开发中大型前端项目的能力；了解 React 框架及其核心概念（Hooks、状态管理等）
+    - 熟练掌握 Vue.js 及其生态（Vue Router、Vuex/Pinia、Vite 等），具备独立开发前端项目的能力；了解 React 框架及其核心概念（Hooks、状态管理等）
     - 熟悉微信小程序开发流程与优化技巧，能高效完成从需求分析到上线的完整开发周期
     - 掌握 MySQL 和 Redis 数据库的基本使用，具备数据建模、查询优化及缓存设计能力，可配合后端进行高效的数据交互
     - 熟悉 Java 和 Python 编程语言，能够参与全栈协作开发或编写脚本工具提升开发效率
@@ -75,7 +75,7 @@ main: #简历主要内容，
   - title: 3D打印模型分享平台（http://47.97.107.232:3001/）
     duration: 2026年6月 - 2026年9月
     items: 
-    - 负责整体项目架构设计，基于 Node.js/Express 按分层架构（config/database/middleware/routes/services）组织后端，完成 SQLite（WAL 模式）用户、模型、收藏、评论、关注等核心数据表建模
+    - 负责整体项目架构设计，基于 Node.js/Express 按分层架构组织后端，完成 SQLite（WAL 模式）用户、模型、收藏、评论、关注等核心数据表建模
     - 运用 Vue + Three.js 开发前端，实现模型上传、WebGL 在线 3D 预览（多视图切换/线框模式）、评论收藏等页面功能，完成前后端 RESTful 接口联调 
     - 集成 Python 工具链（trimesh/matplotlib）实现模型缩略图自动生成与 3MF→STL 格式转换，接入 Redis 缓存、SMTP 邮箱验证与 AI 语义搜索（含降级策略），完成响应式移动端适配
     - 项目为从零搭建原创 Repo，无抄袭与二次修改他人项目，已部署上线阿里云服务器（pm2 常驻 + JWT 鉴权），完整掌握全栈项目从开发到生产部署全流程
